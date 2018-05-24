@@ -39,8 +39,9 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    @SuppressWarnings("unchecked")
     public void tellJoke(View view) {
-        Toast.makeText(this, "derp", Toast.LENGTH_SHORT).show();
+        new EndpointsAsyncTask(this).execute();
     }
 
 

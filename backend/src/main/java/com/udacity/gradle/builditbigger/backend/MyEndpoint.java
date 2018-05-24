@@ -20,7 +20,7 @@ public class MyEndpoint {
 
     /** A simple endpoint method that takes a name and says Hi back */
     @ApiMethod(name = "setJoke")
-    public MyBean sayHi(MyBean myBean) {
+    public MyBean setJoke(MyBean myBean) {
         return myBean;
     }
 

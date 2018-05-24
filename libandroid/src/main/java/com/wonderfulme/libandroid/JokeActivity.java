@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class JokeActivity extends AppCompatActivity {
 
-    public final String INTENT_JOKE = "INTENT_JOKE";
+    public static final String INTENT_JOKE = "INTENT_JOKE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

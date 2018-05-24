@@ -1,1 +1,1 @@
-include ':app', ':backend', ':libJokerJava'
+include ':app', ':backend', ':libJokerJava', ':libandroid'

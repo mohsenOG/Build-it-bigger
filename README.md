@@ -12,5 +12,7 @@ Click [here](https://github.com/udacity/ud867/tree/master/FinalProject) when you
 ## My note:
 
 I tried to be as minimalist as I can in this project. So no progressBar or weird ads layers! Probably this is the easiest possible way to add a flavor to an android app.
+
 I hope you enjoy it and by the way it is totally free to use in anyhow you like but has no warranty/guarantee.
+
 cheers,

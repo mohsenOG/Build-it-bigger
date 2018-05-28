@@ -9,7 +9,7 @@ import java.util.Random;
  * http://prof.johnpile.com/2013/05/28/the-24-bestworst-programming-jokes/
  */
 
-public class Joker {
+public final class Joker {
     private List<String> mJokes;
 
     public Joker() {
